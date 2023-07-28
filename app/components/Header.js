@@ -12,7 +12,6 @@ export default function Header({ fontColor }) {
       p={"10px"}
       borderRadius={"lg"}
     >
-      <Text color={fontColor}>2023. 전남동부권사회과연구회</Text>
       <Link
         color={fontColor}
         as={NextLink}
