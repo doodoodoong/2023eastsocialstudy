@@ -8,9 +8,6 @@ export default function Home() {
     <Box h={"100vh"} w={"100vw"}>
       <VideoBackground videoSrc="/assets/video/background.mp4" />
       <Header fontColor={"white"} />
-      <Text fontSize={"3xl"} color={"white"} zIndex={"1"}>
-        Hello, world
-      </Text>
     </Box>
   );
 }
