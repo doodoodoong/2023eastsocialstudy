@@ -13,6 +13,7 @@ export default function Home() {
         backdropContrast={"30%"}
         borderRadius={"lg"}
         padding={"2"}
+        w={"100%"}
       >
         <Text fontSize={"4xl"}>2023. 전남동부권사회과연구회</Text>
       </Box>
